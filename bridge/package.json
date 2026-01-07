@@ -1,0 +1,13 @@
+{
+  "name": "bridge",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.14.1",
+    "ws": "^8.19.0"
+  }
+}

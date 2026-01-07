@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+
+# SvelteKit build cache
+front/.svelte-kit/
+front/build/
+
+# Vite build outputs
+front/dist/
+
+# Editor
+.vscode/
